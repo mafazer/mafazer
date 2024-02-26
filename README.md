@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'am a Business Management student specializing in Android Development🔥
+## Still a learner🔥
 
 ### Github Statistic
 <p align="left">
